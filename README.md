@@ -22,14 +22,8 @@
 
 ---
 
-## 📸 Screenshots
-
-_Add screenshots here to showcase your app UI._
-
----
-
 ## 🚀 Getting Started
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Generic77742/StrechZen.git
+   git clone https://github.com/worknshubh/strechzen.git
